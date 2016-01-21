@@ -7,16 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc061c7e-4241-402b-8f7d-12682c550158" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\pc\AndroidStudioProjects\ict2105-team04-2016\.idea\libraries\appcompat_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pc\AndroidStudioProjects\ict2105-team04-2016\.idea\libraries\design_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pc\AndroidStudioProjects\ict2105-team04-2016\.idea\libraries\recyclerview_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pc\AndroidStudioProjects\ict2105-team04-2016\.idea\libraries\support_annotations_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pc\AndroidStudioProjects\ict2105-team04-2016\.idea\libraries\support_v4_23_1_1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore.gitignore" afterPath="$PROJECT_DIR$/.gitignore.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ict2105-team04-2016.iws" />
@@ -48,50 +39,10 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab1/sit/helloworld/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6256831">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.862069">
-              <caret line="1969" column="14" selection-start-line="1969" selection-start-column="14" selection-end-line="1969" selection-end-column="14" />
-              <folding>
-                <marker date="1453380808641" expanded="true" signature="139993:140010" placeholder="..." />
-                <marker date="1453380808641" expanded="true" signature="139993:140028" placeholder="..." />
-                <marker date="1453380808641" expanded="true" signature="139993:140041" placeholder="..." />
-                <marker date="1453380808641" expanded="true" signature="139993:140056" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.3251366">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -1700,6 +1651,16 @@
               <option name="myItemId" value="ict2105-team04-2016" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ict2105-team04-2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -1922,7 +1883,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453377340687</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test 3">
+      <created>1453380830483</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1453380830483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1967,7 +1934,8 @@
     <MESSAGE value="First commit after pull" />
     <MESSAGE value="Edited yml file to test /home/travis/build/sgtech-ict2105/ict2105-team04-2016 not exist" />
     <MESSAGE value="Test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 2" />
+    <MESSAGE value="Test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2003,24 +1971,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.862069">
-          <caret line="1969" column="14" selection-start-line="1969" selection-start-column="14" selection-end-line="1969" selection-end-column="14" />
+        <state vertical-scroll-proportion="3.0344827">
+          <caret line="1967" column="14" selection-start-line="1967" selection-start-column="14" selection-end-line="1967" selection-end-column="14" />
           <folding>
-            <marker date="1453380808641" expanded="true" signature="139993:140010" placeholder="..." />
-            <marker date="1453380808641" expanded="true" signature="139993:140028" placeholder="..." />
-            <marker date="1453380808641" expanded="true" signature="139993:140041" placeholder="..." />
-            <marker date="1453380808641" expanded="true" signature="139993:140056" placeholder="..." />
+            <marker date="1453381056979" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453381056979" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453381056979" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453381056979" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab1/sit/helloworld/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6256831">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.3251366">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
