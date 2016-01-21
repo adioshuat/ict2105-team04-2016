@@ -1,3 +1,8 @@
+language: java
+jdk:
+  - oraclejdk7
+  - openjdk7
+
 language: android
 
 #before_install:
@@ -12,7 +17,7 @@ android:
 
     # The BuildTools version used by your project
     #- build-tools-19.1.0
-    - build-tools-23.1.1
+    - build-tools-23.0.2
     
     # The SDK version used to compile your project
     - android-23
