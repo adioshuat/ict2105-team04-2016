@@ -1,12 +1,7 @@
-language: java
-jdk:
-  - oraclejdk7
-  - openjdk7
-
 language: android
 
-#before_install:
-#    - chmod +x gradlew
+before_install:
+    - chmod +x gradlew
 
 android:
   components:
@@ -14,7 +9,7 @@ android:
     # use the latest revision of Android SDK Tools
     - platform-tools
     - tools
-
+    
     # The BuildTools version used by your project
     #- build-tools-19.1.0
     - build-tools-23.0.2
@@ -32,7 +27,10 @@ android:
     # Specify at least one system image,
     # if you need to run emulator(s) during your tests
     #- sys-img-armeabi-v7a-android-23
-    #- sys-img-x86-android-23    
-
+    #- sys-img-x86-android-23  
+    
 script: 
     - "./gradlew build"
+   #- "./gradlew build connectedCheck"
+   # the above line checks for connected emulators, for now don't bother 
+
